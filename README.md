@@ -52,7 +52,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="28px" src="imagenes/viewnext.png">
 
 * 09.35h [López de la Torre, Julia](https://github.com/)
-* 09.35h [Santiago Perea, Vicente]([https://github.com/](https://github.com/Itzvicen/presentacion-dual-2-DAW)
+* 09.35h [Santiago Perea, Vicente](https://github.com/](https://github.com/Itzvicen/presentacion-dual-2-DAW)
 * 09.35h [Ruiz Artacho, Marina](https://github.com/marruiart/presentacion-dual-2-dam.git)
 * 09.35h [Gutiérrez Mellado, Juan Manuel](https://github.com/Juanma-Gutierrez/Presentacion-Dual-2DAM)
 
