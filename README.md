@@ -76,7 +76,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 <img height="28px" src="imagenes/opplus.png">
 
 * 10.20h [Díaz Marín, José Pablo](https://github.com/)
-* 10.20h [Sánchez Martínez, Jose](https://github.com/)
+* 10.20h [Sánchez Martínez, Jose](https://github.com/jimmysm1995/Presentacion_Dual)
 
 <br/>
 
