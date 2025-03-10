@@ -39,7 +39,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Jueves 13 de marzo de 2025
 
-<img height="36px" src="imagenes/accenture.png">
+<img height="36px" src="imagenes/accenture.svg">
 
 * 10.00h [Lázaro Zambrano, Gonzalo](https://github.com/)
 * 10.00h[Ramos Alarcón, Sergio Romero](https://github.com/)
