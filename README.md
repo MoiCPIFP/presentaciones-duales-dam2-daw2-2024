@@ -39,7 +39,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 ### :calendar: Jueves 13 de marzo de 2025
 
-<img height="36px" src="imagenes/serbatic.png">
+<img height="36px" src="imagenes/accenture.png">
 
 * 10.00h [Lázaro Zambrano, Gonzalo](https://github.com/)
 * 10.00h[Ramos Alarcón, Sergio Romero](https://github.com/)
@@ -47,7 +47,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <br/>
 
-<img height="28px" src="imagenes/viewnext.png">
+<img height="28px" src="imagenes/ADA.png">
 
 * 10.30h [Ávila Rosas, Miguel Ángel](https://github.com/)
 * 10.30h[Barnestein Martos, Alejandro](https://github.com/)
@@ -56,14 +56,14 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <br/>
 
-<img height="28px" src="imagenes/viewnext.png">
+<img height="28px" src="imagenes/properly.png">
 
 
-* 11.00h [Gutiérrez Mellado, Juan Manuel](https://github.com/)
+* 11.00h [Cabello Rueda, Francisco Javier](https://github.com/)
 
 <br/>
 
-<img height="28px" src="imagenes/nttdata.png">
+<img height="28px" src="imagenes/viewnext.png">
 
 * 11.50h [Alarcón Fortes, Manuel](https://github.com/)
 * 11.50h [Chacón Macías, Juan Francisco](https://github.com/)
