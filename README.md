@@ -69,7 +69,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 * 11.50h [Chacón Macías, Juan Francisco](https://github.com/)
 * 11.50h [López Guerrero, Álvaro](https://github.com/)
 * 11.50h [Avella Pérez, Samuel ](https://github.com/)
-* 11.50h [Lázaro Zambrano, Ignacio] (https://github.com/)
+* 11.50h [Lázaro Zambrano, Ignacio](https://github.com/)
 
 <br/>
  
@@ -83,13 +83,13 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación.
 
 <img height="36px" src="imagenes/pwc.png">
 
-* 12.50h [Gallego Ríos, Boris].(https://github.com/)
+* 12.50h [Gallego Ríos, Boris](https://github.com/)
 
 <br/>
 
 <img height="36px" src="imagenes/aliqindoi.png">
 
-* 13.10h [Solera Romero, David].(https://github.com/)
+* 13.10h [Solera Romero, David](https://github.com/)
 
 <br/>
 
